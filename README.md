@@ -2,6 +2,8 @@
 
 A distraction-free writing app for long-form fiction. Organise stories into projects and chapters, write in a rich-text editor with autosave, and keep plot, scene and idea notes next to the text.
 
+Live link: https://cozy-editor-six.vercel.app/
+
 ![Editor](docs/screenshots/editor.png)
 
 ## Features
